@@ -1,159 +1,630 @@
 {
-    "04/01": " Journée mondiale du braille ",
-    "24/01": " Journée internationale de l'éducation ",
-    "27/01": " Journée internationale dédiée à la mémoire des victimes de l'Holocauste ",
-    "01/02": " Semaine mondiale de l’harmonie interconfessionnelle (première semaine de février) ",
-    "02/02": " Journée mondiale des zones humides ",
-    "04/02": " Journée internationale de la fraternité humaine ",
-    "06/02": " Journée internationale de tolérance zéro à l'égard des mutilations génitales féminines ",
-    "10/02": " Journée internationale des légumineuses ",
-    "11/02": " Journée internationale des femmes et des filles de science ",
-    "13/02": " Journée mondiale de la radio ",
-    "20/02": " Journée mondiale de la justice sociale ",
-    "21/02": " Journée internationale de la langue maternelle ",
-    "01/03": " Journée « Zéro discrimination » ",
-    "03/03": " Journée mondiale de la vie sauvage ",
-    "08/03": " Journée internationale des femmes ",
-    "10/03": " Journée internationale des femmes juges ",
-    "15/03": " Journée internationale de lutte contre l’islamophobie ",
-    "20/03": " Journée de la langue française ",
-    "21/03": " Journée mondiale de la trisomie 21 ",
-    "22/03": " Journée mondiale de l'eau ",
-    "23/03": " Journée météorologique mondiale ",
-    "24/03": " Journée mondiale de la lutte contre la tuberculose ",
-    "25/03": " Journée internationale de commémoration des victimes de l’esclavage et de la traite transatlantique des esclaves ",
-    "02/04": " Journée mondiale de sensibilisation à l'autisme ",
-    "04/04": " Journée internationale pour la sensibilisation aux mines et l'assistance à la lutte antimines ",
-    "05/04": " Journée internationale de la conscience ",
-    "06/04": " Journée internationale du sport au service du développement et de la paix ",
-    "07/04": " Journée internationale de réflexion sur le génocide des Tutsis au Rwanda en 1994 ",
-    "12/04": " Journée internationale du vol spatial habité ",
-    "14/04": " Journée mondiale de la maladie de Chagas ",
-    "20/04": " Journée de la langue chinoise (2017) ",
-    "21/04": " Journée mondiale de la créativité et de l’innovation ",
-    "22/04": " Journée internationale de la Terre nourricière ",
-    "23/04": " Journée mondiale du livre et du droit d'auteur ",
-    "24/04": " Journée internationale du multilatéralisme et de la diplomatie au service de la paix ",
-    "25/04": " Journée mondiale contre le paludisme ",
-    "26/04": " Journée mondiale de la propriété intellectuelle ",
-    "28/04": " Journée des jeunes filles dans le secteur des TIC ",
-    "30/04": " Journée internationale du jazz ",
-    "02/05": " Journée mondiale du thon ",
-    "03/05": " Journée mondiale de la liberté de la presse ",
-    "05/05": " Journée mondiale de la langue portugaise [UNESCO] ",
-    "08/05": " Journées du souvenir et de la réconciliation en l'honneur des morts de la Seconde Guerre mondiale ",
-    "12/05": " Journée internationale de la santé des végétaux ",
-    "14/05": " Journée mondiale des oiseaux migrateurs ",
-    "15/05": " Journée internationale des familles ",
-    "16/05": " ​Journée du Vesak ",
-    "17/05": " Journée mondiale des télécommunications et de la société de l'information ",
-    "20/05": " Journée mondiale des abeilles ",
-    "21/05": " Journée mondiale de la diversité culturelle pour le dialogue et le développement ",
-    "22/05": " Journée internationale de la diversité biologique ",
-    "23/05": " Journée internationale pour l’élimination de la fistule obstétricale ",
-    "25/05": " Semaine de la solidarité avec les peuples des territoires non autonomes ",
-    "29/05": " Journée internationale des Casques bleus des Nations Unies ",
-    "31/05": " Journée mondiale sans tabac ",
-    "01/06": " Journée mondiale des parents ",
-    "03/06": " Journée mondiale de la bicyclette ",
-    "04/06": " Journée internationale des enfants victimes innocentes de l'agression ",
-    "05/06": " Journée mondiale de l'environnement ",
-    "06/06": " Journée de la langue russe ",
-    "07/06": " Journée internationale de la sécurité sanitaire des aliments ",
-    "08/06": " Journée mondiale de l'océan ",
-    "12/06": " Journée mondiale contre le travail des enfants ",
-    "13/06": " Journée internationale de sensibilisation à l'albinisme ",
-    "14/06": " Journée mondiale du donneur de sang ",
-    "15/06": " Journée mondiale de sensibilisation à la maltraitance des personnes âgées ",
-    "16/06": " Journée internationale des envois de fonds familiaux ",
-    "17/06": " Journée mondiale de la lutte contre la désertification et la sécheresse ",
-    "18/06": " Journée de la gastronomie durable ",
-    "19/06": " Journée internationale pour l'élimination de la violence sexuelle en temps de conflit ",
-    "20/06": " Journée mondiale des réfugiés ",
-    "21/06": " Journée internationale du Yoga ",
-    "23/06": " Journée des Nations Unies pour la fonction publique ",
-    "24/06": " Journée internationale des femmes dans la diplomatie ",
-    "25/06": " Journée des gens de mer ",
-    "26/06": " Journée internationale pour le soutien aux victimes de la torture ",
-    "27/06": " Journée des micro-, petites et moyennes entreprises ",
-    "29/06": " Journée internationale des tropiques ",
-    "30/06": " Journée internationale du parlementarisme ",
-    "03/07": " Journée internationale des coopératives ",
-    "07/07": " Journée mondiale de la langue Kiswahili (UNESCO) ",
-    "11/07": " Journée mondiale de la population ",
-    "15/07": " Journée mondiale des compétences des jeunes ",
-    "18/07": " Journée internationale Nelson Mandela ",
-    "20/07": " Journée mondiale du jeu d'échecs ",
-    "25/07": " Journée mondiale de prévention de la noyade  ",
-    "28/07": " Journée mondiale contre l'hépatite ",
-    "30/07": " Journée mondiale de la lutte contre la traite d’êtres humains ",
-    "01/08": " Semaine mondiale de l'allaitement maternel ",
-    "09/08": " Journée internationale des peuples autochtones ",
-    "12/08": " Journée internationale de la jeunesse ",
-    "19/08": " Journée mondiale de l'aide humanitaire ",
-    "21/08": " Journée internationale du souvenir, en hommage aux victimes du terrorisme ",
-    "22/08": " Journée internationale de commémoration des personnes victimes de violences en raison de leur religion ou de leurs convictions ",
-    "23/08": " Journée internationale du souvenir de la traite négrière et de son abolition ",
-    "29/08": " Journée internationale contre les essais nucléaires ",
-    "30/08": " Journée internationale des victimes de disparition forcée ",
-    "05/09": " Journée internationale de la charité ",
-    "07/09": " Journée internationale de l’air pur pour des ciels bleus ",
-    "08/09": " Journée internationale de l'alphabétisation ",
-    "09/09": " Journée internationale pour la protection de l’éducation contre les attaques ",
-    "12/09": " Journée des Nations Unies pour la coopération Sud-Sud ",
-    "15/09": " Journée internationale de la démocratie ",
-    "16/09": " Journée internationale de la protection de la couche d'ozone ",
-    "17/09": " Journée mondiale de la sécurité des patients ",
-    "18/09": " Journée internationale de l’égalité de rémunération ",
-    "21/09": " Journée internationale de la paix ",
-    "23/09": " Journée internationale des langues des signes ",
-    "26/09": " Journée internationale pour l'élimination totale des armes nucléaires ",
-    "27/09": " Journée mondiale du tourisme ",
-    "28/09": " Journée internationale de l'accès universel à l'information ",
-    "29/09": " Journée internationale de sensibilisation aux pertes et gaspillages de nourriture ",
-    "30/09": " Journée internationale de la traduction ",
-    "01/10": " Journée internationale pour les personnes âgées ",
-    "02/10": " Journée internationale de la non-violence ",
-    "04/10": " Semaine mondiale de l'espace ",
-    "05/10": " Journée mondiale des enseignants ",
-    "07/10": " Journée mondiale du coton ",
-    "08/10": " Journée mondiale des oiseaux migrateurs ",
-    "09/10": " Journée mondiale de la poste ",
-    "10/10": " Journée mondiale de la santé mentale ",
-    "11/10": " Journée internationale de la fille ",
-    "13/10": " Journée internationale pour la réduction des risques de catastrophes ",
-    "15/10": " Journée internationale des femmes rurales ",
-    "16/10": " Journée mondiale de l'alimentation ",
-    "17/10": " Journée internationale pour l'élimination de la pauvreté ",
-    "20/10": " Journée mondiale de la statistique ",
-    "24/10": " Semaine du désarmement ",
-    "27/10": " Journée mondiale du patrimoine audiovisuel ",
-    "31/10": " Journée mondiale des villes ",
-    "02/11": " Journée internationale de la fin de l’impunité pour les crimes commis contre des journalistes ",
-    "05/11": " Journée mondiale de sensibilisation aux tsunamis ",
-    "06/11": " Journée internationale pour la prévention de l'exploitation de l'environnement en temps de guerre et de conflit armé ",
-    "10/11": " Semaine mondiale de la science au service de la paix et du développement ",
-    "13/11": " Semaine mondiale pour un bon usage des antibiotiques, 13-19 novembre [OMS] ",
-    "14/11": " Journée mondiale du diabète ",
-    "16/11": " Journée mondiale de la tolérance ",
-    "18/11": " Journée mondiale de la philosophie  ",
-    "19/11": " Journée mondiale des toilettes ",
-    "20/11": " Journée mondiale de l'enfance ",
-    "21/11": " Journée mondiale de la télévision ",
-    "25/11": " Journée internationale pour l'élimination de la violence à l'égard des femmes ",
-    "29/11": " Journée internationale de solidarité avec le peuple palestinien ",
-    "30/11": " Journée du souvenir dédiée à toutes les victimes de la guerre chimique ",
-    "01/12": " Journée mondiale de lutte contre le sida ",
-    "02/12": " Journée internationale pour l'abolition de l'esclavage ",
-    "03/12": " Journée internationale des personnes handicapées ",
-    "04/12": " Journée internationale des banques ",
-    "05/12": " Journée mondiale des sols ",
-    "07/12": " Journée de l'aviation civile internationale ",
-    "09/12": " Journée internationale de commémoration des victimes du crimede génocide, d’affirmation de leur dignité et de prévention de ce crime ",
-    "10/12": " Journée des droits de l'homme ",
-    "11/12": " Journée internationale de la montagne ",
-    "12/12": " Journée internationale de la neutralité ",
-    "18/12": " Journée internationale des migrants ",
-    "20/12": " Journée internationale de la solidarité humaine ",
-    "27/12": " Journée internationale de la préparation aux épidémies "
+    "04/01": {
+        "en": " World Braille Day ",
+        "fr": " Journée mondiale du braille "
+    },
+    "24/01": {
+        "en": " International Day of Education ",
+        "fr": " Journée internationale de l'éducation "
+    },
+    "27/01": {
+        "en": " International Day of Commemoration in Memory of the Victims of the Holocaust  ",
+        "fr": " Journée internationale dédiée à la mémoire des victimes de l'Holocauste "
+    },
+    "01/02": {
+        "en": " World Interfaith Harmony Week, 1-7 February ",
+        "fr": " Semaine mondiale de l’harmonie interconfessionnelle (première semaine de février) "
+    },
+    "02/02": {
+        "en": " World Wetlands Day ",
+        "fr": " Journée mondiale des zones humides "
+    },
+    "04/02": {
+        "en": " International Day of Human Fraternity ",
+        "fr": " Journée internationale de la fraternité humaine "
+    },
+    "06/02": {
+        "en": " International Day of Zero Tolerance to Female Genital Mutilation  ",
+        "fr": " Journée internationale de tolérance zéro à l'égard des mutilations génitales féminines "
+    },
+    "10/02": {
+        "en": " World Pulses Day  ",
+        "fr": " Journée internationale des légumineuses "
+    },
+    "11/02": {
+        "en": " International Day of Women and Girls in Science  ",
+        "fr": " Journée internationale des femmes et des filles de science "
+    },
+    "13/02": {
+        "en": " World Radio Day  ",
+        "fr": " Journée mondiale de la radio "
+    },
+    "20/02": {
+        "en": " World Day of Social Justice   ",
+        "fr": " Journée mondiale de la justice sociale "
+    },
+    "21/02": {
+        "en": " International Mother Language Day  ",
+        "fr": " Journée internationale de la langue maternelle "
+    },
+    "01/03": {
+        "en": " Zero Discrimination Day [UNAIDS] ",
+        "fr": " Journée « Zéro discrimination » "
+    },
+    "03/03": {
+        "en": " World Wildlife Day  ",
+        "fr": " Journée mondiale de la vie sauvage "
+    },
+    "08/03": {
+        "en": " International Women's Day   ",
+        "fr": " Journée internationale des femmes "
+    },
+    "10/03": {
+        "en": " International Day of Women Judges ",
+        "fr": " Journée internationale des femmes juges "
+    },
+    "15/03": {
+        "en": " International Day to Combat Islamophobia ",
+        "fr": " Journée internationale de lutte contre l’islamophobie "
+    },
+    "20/03": {
+        "en": " French Language Day  ",
+        "fr": " Journée de la langue française "
+    },
+    "21/03": {
+        "en": " International Day of Forests  ",
+        "fr": " Journée mondiale de la trisomie 21 "
+    },
+    "22/03": {
+        "en": " World Water Day  ",
+        "fr": " Journée mondiale de l'eau "
+    },
+    "23/03": {
+        "en": " World Meteorological Day  ",
+        "fr": " Journée météorologique mondiale "
+    },
+    "24/03": {
+        "en": " International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims  ",
+        "fr": " Journée mondiale de la lutte contre la tuberculose "
+    },
+    "25/03": {
+        "en": " International Day of Solidarity with Detained and Missing Staff Members  ",
+        "fr": " Journée internationale de commémoration des victimes de l’esclavage et de la traite transatlantique des esclaves "
+    },
+    "02/04": {
+        "en": " World Autism Awareness Day  ",
+        "fr": " Journée mondiale de sensibilisation à l'autisme "
+    },
+    "04/04": {
+        "en": " International Day for Mine Awareness and Assistance in Mine Action  ",
+        "fr": " Journée internationale pour la sensibilisation aux mines et l'assistance à la lutte antimines "
+    },
+    "05/04": {
+        "en": " International Day of Conscience  ",
+        "fr": " Journée internationale de la conscience "
+    },
+    "06/04": {
+        "en": " International Day of Sport for Development and Peace  ",
+        "fr": " Journée internationale du sport au service du développement et de la paix "
+    },
+    "07/04": {
+        "en": " International Day of Reflection on the 1994 Genocide against the Tutsi in Rwanda   ",
+        "fr": " Journée internationale de réflexion sur le génocide des Tutsis au Rwanda en 1994 "
+    },
+    "12/04": {
+        "en": " International Day of Human Space Flight  ",
+        "fr": " Journée internationale du vol spatial habité "
+    },
+    "14/04": {
+        "en": " World Chagas Disease Day [WHO] ",
+        "fr": " Journée mondiale de la maladie de Chagas "
+    },
+    "20/04": {
+        "en": " Chinese Language Day  ",
+        "fr": " Journée de la langue chinoise (2017) "
+    },
+    "21/04": {
+        "en": " World Creativity and Innovation Day  ",
+        "fr": " Journée mondiale de la créativité et de l’innovation "
+    },
+    "22/04": {
+        "en": " International Mother Earth Day ",
+        "fr": " Journée internationale de la Terre nourricière "
+    },
+    "23/04": {
+        "en": " Spanish Language Day   ",
+        "fr": " Journée mondiale du livre et du droit d'auteur "
+    },
+    "24/04": {
+        "en": " International Day of Multilateralism and Diplomacy for Peace  ",
+        "fr": " Journée internationale du multilatéralisme et de la diplomatie au service de la paix "
+    },
+    "25/04": {
+        "en": " International Delegate’s Day  ",
+        "fr": " Journée mondiale contre le paludisme "
+    },
+    "26/04": {
+        "en": " World Intellectual Property Day  ",
+        "fr": " Journée mondiale de la propriété intellectuelle "
+    },
+    "28/04": {
+        "en": " World Day for Safety and Health at Work  ",
+        "fr": " Journée des jeunes filles dans le secteur des TIC "
+    },
+    "30/04": {
+        "en": " International Jazz Day  ",
+        "fr": " Journée internationale du jazz "
+    },
+    "02/05": {
+        "en": " World Tuna Day  ",
+        "fr": " Journée mondiale du thon "
+    },
+    "03/05": {
+        "en": " World Press Freedom Day  ",
+        "fr": " Journée mondiale de la liberté de la presse "
+    },
+    "05/05": {
+        "en": " World Portuguese Language Day [UNESCO] ",
+        "fr": " Journée mondiale de la langue portugaise [UNESCO] "
+    },
+    "08/05": {
+        "en": " Time of Remembrance and Reconciliation for Those Who Lost Their Lives During the Second World War   ",
+        "fr": " Journées du souvenir et de la réconciliation en l'honneur des morts de la Seconde Guerre mondiale "
+    },
+    "12/05": {
+        "en": " International Day of Argania ",
+        "fr": " Journée internationale de la santé des végétaux "
+    },
+    "14/05": {
+        "en": " International Day of Plant Health ",
+        "fr": " Journée mondiale des oiseaux migrateurs "
+    },
+    "15/05": {
+        "en": " World Migratory Bird Day  ",
+        "fr": " Journée internationale des familles "
+    },
+    "16/05": {
+        "en": " International Day of Light  ",
+        "fr": " ​Journée du Vesak "
+    },
+    "17/05": {
+        "en": " Vesak, the Day of the Full Moon ",
+        "fr": " Journée mondiale des télécommunications et de la société de l'information "
+    },
+    "20/05": {
+        "en": " World Telecommunication and Information Society Day  ",
+        "fr": " Journée mondiale des abeilles "
+    },
+    "21/05": {
+        "en": " International Tea Day  ",
+        "fr": " Journée mondiale de la diversité culturelle pour le dialogue et le développement "
+    },
+    "22/05": {
+        "en": " World Day for Cultural Diversity for Dialogue and Development  ",
+        "fr": " Journée internationale de la diversité biologique "
+    },
+    "23/05": {
+        "en": " International Day for Biological Diversity  ",
+        "fr": " Journée internationale pour l’élimination de la fistule obstétricale "
+    },
+    "25/05": {
+        "en": " International Day to End Obstetric Fistula  ",
+        "fr": " Semaine de la solidarité avec les peuples des territoires non autonomes "
+    },
+    "29/05": {
+        "en": " Week of Solidarity with the Peoples of Non-Self-Governing Territories, 25-31 May ",
+        "fr": " Journée internationale des Casques bleus des Nations Unies "
+    },
+    "31/05": {
+        "en": " International Day of UN Peacekeepers  ",
+        "fr": " Journée mondiale sans tabac "
+    },
+    "01/06": {
+        "en": " World No-Tobacco Day  ",
+        "fr": " Journée mondiale des parents "
+    },
+    "03/06": {
+        "en": " Global Day of Parents  ",
+        "fr": " Journée mondiale de la bicyclette "
+    },
+    "04/06": {
+        "en": " World Bicycle Day  ",
+        "fr": " Journée internationale des enfants victimes innocentes de l'agression "
+    },
+    "05/06": {
+        "en": " World Environment Day  ",
+        "fr": " Journée mondiale de l'environnement "
+    },
+    "06/06": {
+        "en": " International Day for the Fight against Illegal, Unreported and Unregulated Fishing  ",
+        "fr": " Journée de la langue russe "
+    },
+    "07/06": {
+        "en": " Russian Language Day  ",
+        "fr": " Journée internationale de la sécurité sanitaire des aliments "
+    },
+    "08/06": {
+        "en": " World Food Safety Day  ",
+        "fr": " Journée mondiale de l'océan "
+    },
+    "12/06": {
+        "en": " World Oceans Day  ",
+        "fr": " Journée mondiale contre le travail des enfants "
+    },
+    "13/06": {
+        "en": " World Day Against Child Labour  ",
+        "fr": " Journée internationale de sensibilisation à l'albinisme "
+    },
+    "14/06": {
+        "en": " International Albinism Awareness Day  ",
+        "fr": " Journée mondiale du donneur de sang "
+    },
+    "15/06": {
+        "en": " World Blood Donor Day  ",
+        "fr": " Journée mondiale de sensibilisation à la maltraitance des personnes âgées "
+    },
+    "16/06": {
+        "en": " World Elder Abuse Awareness Day  ",
+        "fr": " Journée internationale des envois de fonds familiaux "
+    },
+    "17/06": {
+        "en": " International Day of Family Remittances  ",
+        "fr": " Journée mondiale de la lutte contre la désertification et la sécheresse "
+    },
+    "18/06": {
+        "en": " International Day for Countering Hate Speech ",
+        "fr": " Journée de la gastronomie durable "
+    },
+    "19/06": {
+        "en": " Sustainable Gastronomy Day  ",
+        "fr": " Journée internationale pour l'élimination de la violence sexuelle en temps de conflit "
+    },
+    "20/06": {
+        "en": " International Day for the Elimination of Sexual Violence in Conflict  ",
+        "fr": " Journée mondiale des réfugiés "
+    },
+    "21/06": {
+        "en": " International Day of Yoga  ",
+        "fr": " Journée internationale du Yoga "
+    },
+    "23/06": {
+        "en": " International Widows' Day  ",
+        "fr": " Journée des Nations Unies pour la fonction publique "
+    },
+    "24/06": {
+        "en": " United Nations Public Service Day  ",
+        "fr": " Journée internationale des femmes dans la diplomatie "
+    },
+    "25/06": {
+        "en": " International Day of Women in Diplomacy  ",
+        "fr": " Journée des gens de mer "
+    },
+    "26/06": {
+        "en": " International Day against Drug Abuse and Illicit Trafficking  ",
+        "fr": " Journée internationale pour le soutien aux victimes de la torture "
+    },
+    "27/06": {
+        "en": " United Nations International Day in Support of Victims of Torture  ",
+        "fr": " Journée des micro-, petites et moyennes entreprises "
+    },
+    "29/06": {
+        "en": " Micro-, Small and Medium-sized Enterprises Day  ",
+        "fr": " Journée internationale des tropiques "
+    },
+    "30/06": {
+        "en": " International Asteroid Day  ",
+        "fr": " Journée internationale du parlementarisme "
+    },
+    "03/07": {
+        "en": " International Day of Parliamentarism  ",
+        "fr": " Journée internationale des coopératives "
+    },
+    "07/07": {
+        "en": " International Day of Cooperatives  ",
+        "fr": " Journée mondiale de la langue Kiswahili (UNESCO) "
+    },
+    "11/07": {
+        "en": " World Kiswahili Language Day [UNESCO] ",
+        "fr": " Journée mondiale de la population "
+    },
+    "15/07": {
+        "en": " World Population Day  ",
+        "fr": " Journée mondiale des compétences des jeunes "
+    },
+    "18/07": {
+        "en": " World Youth Skills Day  ",
+        "fr": " Journée internationale Nelson Mandela "
+    },
+    "20/07": {
+        "en": " International Moon Day ",
+        "fr": " Journée mondiale du jeu d'échecs "
+    },
+    "25/07": {
+        "en": " World Chess Day  ",
+        "fr": " Journée mondiale de prévention de la noyade  "
+    },
+    "28/07": {
+        "en": " World Drowning Prevention Day ",
+        "fr": " Journée mondiale contre l'hépatite "
+    },
+    "30/07": {
+        "en": " International Day of Friendship  ",
+        "fr": " Journée mondiale de la lutte contre la traite d’êtres humains "
+    },
+    "01/08": {
+        "en": " World Day against Trafficking in Persons  ",
+        "fr": " Semaine mondiale de l'allaitement maternel "
+    },
+    "09/08": {
+        "en": " World Breastfeeding Week, 1-7 August [WHO] ",
+        "fr": " Journée internationale des peuples autochtones "
+    },
+    "12/08": {
+        "en": " International Day of the World's Indigenous Peoples  ",
+        "fr": " Journée internationale de la jeunesse "
+    },
+    "19/08": {
+        "en": " International Youth Day  ",
+        "fr": " Journée mondiale de l'aide humanitaire "
+    },
+    "21/08": {
+        "en": " World Humanitarian Day  ",
+        "fr": " Journée internationale du souvenir, en hommage aux victimes du terrorisme "
+    },
+    "22/08": {
+        "en": " International Day of Remembrance and Tribute to the Victims of Terrorism  ",
+        "fr": " Journée internationale de commémoration des personnes victimes de violences en raison de leur religion ou de leurs convictions "
+    },
+    "23/08": {
+        "en": " International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief  ",
+        "fr": " Journée internationale du souvenir de la traite négrière et de son abolition "
+    },
+    "29/08": {
+        "en": " International Day for the Remembrance of the Slave Trade and Its Abolition [UNESCO] ",
+        "fr": " Journée internationale contre les essais nucléaires "
+    },
+    "30/08": {
+        "en": " International Day against Nuclear Tests  ",
+        "fr": " Journée internationale des victimes de disparition forcée "
+    },
+    "05/09": {
+        "en": " International Day of the Victims of Enforced Disappearances  ",
+        "fr": " Journée internationale de la charité "
+    },
+    "07/09": {
+        "en": " International Day for People of African Descent ",
+        "fr": " Journée internationale de l’air pur pour des ciels bleus "
+    },
+    "08/09": {
+        "en": " International Day of Charity  ",
+        "fr": " Journée internationale de l'alphabétisation "
+    },
+    "09/09": {
+        "en": " International Day of Clean Air for Blue Skies  ",
+        "fr": " Journée internationale pour la protection de l’éducation contre les attaques "
+    },
+    "12/09": {
+        "en": " International Literacy Day [UNESCO] ",
+        "fr": " Journée des Nations Unies pour la coopération Sud-Sud "
+    },
+    "15/09": {
+        "en": " International Day to Protect Education from Attack  ",
+        "fr": " Journée internationale de la démocratie "
+    },
+    "16/09": {
+        "en": " International Day of Democracy  ",
+        "fr": " Journée internationale de la protection de la couche d'ozone "
+    },
+    "17/09": {
+        "en": " International Day for Interventional Cardiology ",
+        "fr": " Journée mondiale de la sécurité des patients "
+    },
+    "18/09": {
+        "en": " International Day for the Preservation of the Ozone Layer  ",
+        "fr": " Journée internationale de l’égalité de rémunération "
+    },
+    "21/09": {
+        "en": " World Patient Safety Day [WHO] ",
+        "fr": " Journée internationale de la paix "
+    },
+    "23/09": {
+        "en": " International Equal Pay Day  ",
+        "fr": " Journée internationale des langues des signes "
+    },
+    "26/09": {
+        "en": " International Day of Peace  ",
+        "fr": " Journée internationale pour l'élimination totale des armes nucléaires "
+    },
+    "27/09": {
+        "en": " International Day of Sign Languages  ",
+        "fr": " Journée mondiale du tourisme "
+    },
+    "28/09": {
+        "en": " International Day for the Total Elimination of Nuclear Weapons  ",
+        "fr": " Journée internationale de l'accès universel à l'information "
+    },
+    "29/09": {
+        "en": " World Tourism Day ",
+        "fr": " Journée internationale de sensibilisation aux pertes et gaspillages de nourriture "
+    },
+    "30/09": {
+        "en": " World Maritime Day   ",
+        "fr": " Journée internationale de la traduction "
+    },
+    "01/10": {
+        "en": " International Day of Awareness of Food Loss and Waste  ",
+        "fr": " Journée internationale pour les personnes âgées "
+    },
+    "02/10": {
+        "en": " International Translation Day ",
+        "fr": " Journée internationale de la non-violence "
+    },
+    "04/10": {
+        "en": " International Day of Non-Violence  ",
+        "fr": " Semaine mondiale de l'espace "
+    },
+    "05/10": {
+        "en": " World Habitat Day ",
+        "fr": " Journée mondiale des enseignants "
+    },
+    "07/10": {
+        "en": " World Space Week, 4-10 October ",
+        "fr": " Journée mondiale du coton "
+    },
+    "08/10": {
+        "en": " World Teachers’ Day   ",
+        "fr": " Journée mondiale des oiseaux migrateurs "
+    },
+    "09/10": {
+        "en": " World Cotton Day ",
+        "fr": " Journée mondiale de la poste "
+    },
+    "10/10": {
+        "en": " World Migratory Bird Day   ",
+        "fr": " Journée mondiale de la santé mentale "
+    },
+    "11/10": {
+        "en": " World Post Day ",
+        "fr": " Journée internationale de la fille "
+    },
+    "13/10": {
+        "en": " World Mental Health Day [WHO] ",
+        "fr": " Journée internationale pour la réduction des risques de catastrophes "
+    },
+    "15/10": {
+        "en": " International Day of the Girl Child  ",
+        "fr": " Journée internationale des femmes rurales "
+    },
+    "16/10": {
+        "en": " International Day for Disaster Risk Reduction  ",
+        "fr": " Journée mondiale de l'alimentation "
+    },
+    "17/10": {
+        "en": " International Day of Rural Women  ",
+        "fr": " Journée internationale pour l'élimination de la pauvreté "
+    },
+    "20/10": {
+        "en": " World Food Day  ",
+        "fr": " Journée mondiale de la statistique "
+    },
+    "24/10": {
+        "en": " World Development Information Day  ",
+        "fr": " Semaine du désarmement "
+    },
+    "27/10": {
+        "en": " Disarmament Week, 24-30 October ",
+        "fr": " Journée mondiale du patrimoine audiovisuel "
+    },
+    "31/10": {
+        "en": " World Day for Audiovisual Heritage [UNESCO] ",
+        "fr": " Journée mondiale des villes "
+    },
+    "02/11": {
+        "en": " World Cities Day  ",
+        "fr": " Journée internationale de la fin de l’impunité pour les crimes commis contre des journalistes "
+    },
+    "05/11": {
+        "en": " International Day to End Impunity for Crimes against Journalists  ",
+        "fr": " Journée mondiale de sensibilisation aux tsunamis "
+    },
+    "06/11": {
+        "en": " World Tsunami Awareness Day  ",
+        "fr": " Journée internationale pour la prévention de l'exploitation de l'environnement en temps de guerre et de conflit armé "
+    },
+    "10/11": {
+        "en": " International Day for Preventing the Exploitation of the Environment in War and Armed Conflict  ",
+        "fr": " Semaine mondiale de la science au service de la paix et du développement "
+    },
+    "13/11": {
+        "en": " International Week of Science and Peace, 9-15 November ",
+        "fr": " Semaine mondiale pour un bon usage des antibiotiques, 13-19 novembre [OMS] "
+    },
+    "14/11": {
+        "en": " World Science Day for Peace and Development  ",
+        "fr": " Journée mondiale du diabète "
+    },
+    "16/11": {
+        "en": " World Antibiotic Awareness Week, 13-19 November [WHO] ",
+        "fr": " Journée mondiale de la tolérance "
+    },
+    "18/11": {
+        "en": " World Diabetes Day   ",
+        "fr": " Journée mondiale de la philosophie  "
+    },
+    "19/11": {
+        "en": " International Day for Tolerance [UNESCO] ",
+        "fr": " Journée mondiale des toilettes "
+    },
+    "20/11": {
+        "en": " World Toilet Day   ",
+        "fr": " Journée mondiale de l'enfance "
+    },
+    "21/11": {
+        "en": " Africa Industrialization Day  ",
+        "fr": " Journée mondiale de la télévision "
+    },
+    "25/11": {
+        "en": " World Children's Day  ",
+        "fr": " Journée internationale pour l'élimination de la violence à l'égard des femmes "
+    },
+    "29/11": {
+        "en": " World Television Day ",
+        "fr": " Journée internationale de solidarité avec le peuple palestinien "
+    },
+    "30/11": {
+        "en": " International Day for the Elimination of Violence against Women  ",
+        "fr": " Journée du souvenir dédiée à toutes les victimes de la guerre chimique "
+    },
+    "01/12": {
+        "en": " International Day of Solidarity with the Palestinian People  ",
+        "fr": " Journée mondiale de lutte contre le sida "
+    },
+    "02/12": {
+        "en": " Day of Remembrance for all Victims of Chemical Warfare  ",
+        "fr": " Journée internationale pour l'abolition de l'esclavage "
+    },
+    "03/12": {
+        "en": " World AIDS Day  ",
+        "fr": " Journée internationale des personnes handicapées "
+    },
+    "04/12": {
+        "en": " International Day for the Abolition of Slavery  ",
+        "fr": " Journée internationale des banques "
+    },
+    "05/12": {
+        "en": " International Day of Banks  ",
+        "fr": " Journée mondiale des sols "
+    },
+    "07/12": {
+        "en": " International Volunteer Day for Economic and Social Development  ",
+        "fr": " Journée de l'aviation civile internationale "
+    },
+    "09/12": {
+        "en": " International Civil Aviation Day  ",
+        "fr": " Journée internationale de commémoration des victimes du crimede génocide, d’affirmation de leur dignité et de prévention de ce crime "
+    },
+    "10/12": {
+        "en": " International Day of Commemoration and Dignity of the Victims of the Crime of Genocide and of the Prevention of this Crime  ",
+        "fr": " Journée des droits de l'homme "
+    },
+    "11/12": {
+        "en": " International Anti-Corruption Day  ",
+        "fr": " Journée internationale de la montagne "
+    },
+    "12/12": {
+        "en": " International Mountain Day  ",
+        "fr": " Journée internationale de la neutralité "
+    },
+    "18/12": {
+        "en": " International Universal Health Coverage Day  ",
+        "fr": " Journée internationale des migrants "
+    },
+    "20/12": {
+        "en": " International Migrants Day  ",
+        "fr": " Journée internationale de la solidarité humaine "
+    },
+    "27/12": {
+        "en": " Arabic Language Day  ",
+        "fr": " Journée internationale de la préparation aux épidémies "
+    }
 }

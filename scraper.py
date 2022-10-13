@@ -2,23 +2,31 @@ from hashlib import new
 import json
 from bs4 import BeautifulSoup
 from dateutil import parser
-import requests, cloudscraper
+import cloudscraper
 import collections
 scraper = cloudscraper.create_scraper()
 
-req = scraper.get('https://www.un.org/fr/observances/list-days-weeks')
-bs = BeautifulSoup(req.content, "html.parser")
+req_en = scraper.get('https://www.un.org/en/observances/list-days-weeks')
+req_fr = scraper.get('https://www.un.org/fr/observances/list-days-weeks')
 
-rows = bs.find_all('div', {'class': 'views-row'})
+bs_en = BeautifulSoup(req_en.content, "html.parser")
+bs_fr = BeautifulSoup(req_fr.content, "html.parser")
+
+rows_fr = bs_fr.find_all('div', {'class': 'views-row'})
+rows_en = bs_en.find_all('div', {'class': 'views-row'})
+
 
 data = {}
-for row in rows:
-    date = parser.parse(row.find('span', {'class': 'date-display-single'})['content'])
+i = 0
+while i < len(rows_fr):
+    date = parser.parse(rows_fr[i].find('span', {'class': 'date-display-single'})['content'])
     date = date.replace(year=2022)
-    title = row.find('span', {'class': 'views-field-title'}).text
-    data[date] = title
+    title_fr = list(rows_fr)[i].find('span', {'class': 'views-field-title'}).text
+    title_en = list(rows_en)[i].find('span', {'class': 'views-field-title'}).text
 
-from pprint import pprint
+    data[date] = {'en': title_en, 'fr':title_fr}
+    i+=1
+
 new_data = {}
 ord = collections.OrderedDict(sorted(data.items()))
 for key, value in dict(ord).items():
