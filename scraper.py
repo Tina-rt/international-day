@@ -1,6 +1,4 @@
-from hashlib import new
 import json
-from pprint import pprint
 from bs4 import BeautifulSoup
 from dateutil import parser
 import cloudscraper
@@ -41,10 +39,5 @@ data = {
 }
 
 
-
-
-
-
 with open('international_day.json', 'w', encoding='utf8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
-
