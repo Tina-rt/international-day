@@ -41,3 +41,5 @@ data = {
 
 with open('international_day.json', 'w', encoding='utf8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
+with open('international_day.min.json', 'w', encoding='utf8') as file:
+    json.dump(data, file, ensure_ascii=False)
