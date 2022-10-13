@@ -25,5 +25,5 @@ for key, value in dict(ord).items():
     new_data[key.strftime('%d/%m')]= value
 
 with open('international_day.json', 'w', encoding='utf8') as file:
-    json.dump(new_data, file, ensure_ascii=False)
+    json.dump(new_data, file, ensure_ascii=False, indent=4)
 
