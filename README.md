@@ -6,9 +6,34 @@ Scrapped with Python
 Date format is DD/MM
 ```
 {
-    "04/01": {
-        "en": " World Braille Day ",
-        "fr": " Journée mondiale du braille "
+    "en": {
+        "04/01": [
+            " World Braille Day "
+        ],
+        
+        "21/03": [
+            " International Day for the Elimination of Racial Discrimination  ",
+            " World Poetry Day [UNESCO] ",
+            " International Day of Nowruz  ",
+            " World Down Syndrome Day  ",
+            " International Day of Forests  ",
+            ...
+        ],
+        ...
     },
+    "fr": {
+        "15/03": [
+            " Journée internationale de lutte contre l’islamophobie "
+        ],
+        "21/03": [
+            " Journée internationale des forêts ",
+            " Journée internationale du Novruz ",
+            " Journée internationale pour l'élimination de la discrimination raciale ",
+            " Journée mondiale de la poésie ",
+            " Journée mondiale de la trisomie 21 ",
+            ...
+        ],
+        ...
+    }
 }
 ```
